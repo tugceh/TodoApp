@@ -1,0 +1,16 @@
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.csproj.AssemblyReference.cache
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.AssemblyInfoInputs.cache
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.AssemblyInfo.cs
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.csproj.CoreCompileInputs.cache
+/Users/tugce/Projects/todoApp/todoApp.Data/bin/Debug/netcoreapp3.1/todoApp.Data.deps.json
+/Users/tugce/Projects/todoApp/todoApp.Data/bin/Debug/netcoreapp3.1/todoApp.Data.dll
+/Users/tugce/Projects/todoApp/todoApp.Data/bin/Debug/netcoreapp3.1/todoApp.Data.pdb
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/staticwebassets/todoApp.Data.StaticWebAssets.Manifest.cache
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/staticwebassets/todoApp.Data.StaticWebAssets.xml
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/scopedcss/bundle/todoApp.Data.styles.css
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.RazorTargetAssemblyInfo.cache
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.dll
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.pdb
+/Users/tugce/Projects/todoApp/todoApp.Data/bin/Debug/netcoreapp3.1/todoApp.Data.runtimeconfig.json
+/Users/tugce/Projects/todoApp/todoApp.Data/bin/Debug/netcoreapp3.1/todoApp.Data.runtimeconfig.dev.json
+/Users/tugce/Projects/todoApp/todoApp.Data/obj/Debug/netcoreapp3.1/todoApp.Data.genruntimeconfig.cache

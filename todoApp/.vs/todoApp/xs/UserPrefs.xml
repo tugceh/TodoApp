@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{0B51422B-5678-4178-8CE3-21367DA55603}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="todoApp.ServiceLayer/RegisterService.cs">
+    <Files>
+      <File FileName="todoApp.ServiceLayer/RegisterService.cs" Line="26" Column="1" />
+      <File FileName="todoApp.ServiceLayer/TodolistService.cs" Line="27" Column="29" />
+      <File FileName="todoApp.Repository/RegisterRepository.cs" Line="23" Column="30" />
+      <File FileName="Info/Repository/Repository.cs" Line="65" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="todoApp" expanded="True">
+            <Node name="Info" expanded="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="todoApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="jsons" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="todoApp.Data" expanded="True">
+              <Node name="Dtos" expanded="True">
+                <Node name="Register" expanded="True" />
+                <Node name="todolist" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="UnitOfWork" expanded="True" />
+            </Node>
+            <Node name="todoApp.Repository" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="todoApp.ServiceLayer" expanded="True">
+              <Node name="Shared" expanded="True" />
+              <Node name="RegisterService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.todoApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tugce/Projects/todoApp/todoApp.Service/RegisterService.cs" relfile="todoApp.Service/RegisterService.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
